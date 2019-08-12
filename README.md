@@ -1,4 +1,8 @@
 # hello-world
 Just another repository
 
-This is my 500th attempt to start using Git for personal projects. Let's hope that it actually sticks this time...
+## 2019-08-09
+Created and just getting started with github...again
+
+## 2019-08-12
+First day back. Just practicing the workflow on the master branch.
